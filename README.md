@@ -13,8 +13,8 @@
 - Refer to project_description folder for implementation details
 
 Technologies used:
-    -
-    - Languages: Java, Python, PHP
-    - Web technologies: HTML, CSS, jQuery
-    - Apache Solr
-    - Environment: UNIX
+-
+- Languages: Java, Python, PHP
+- Web technologies: HTML, CSS, jQuery
+- Apache Solr
+- Environment: UNIX
